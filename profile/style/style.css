@@ -413,8 +413,7 @@ textarea {
 }
 
 .mapa {
-  margin-left: auto;
-  margin-right: auto;
+  margin-left: -40;
   margin-top: 50px;
 
 }
